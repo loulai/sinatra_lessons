@@ -2,7 +2,7 @@ require 'sinatra'
 
 get '/' do
 
-	"<div>
+	"<div style='border: 3px dashed pink'>
 		<img src='http://bit.ly/1eze8aE'>
 		</div>"
 
